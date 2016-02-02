@@ -35,12 +35,7 @@
       "aurelia-pal-browser": "npm:aurelia-pal-browser@^1.0.0-beta.1.0.3",
       "babel": "npm:babel-core@^5.8.24",
       "babel-runtime": "npm:babel-runtime@^5.8.24",
-      "core-js": "npm:core-js@^1.1.4"
-    },
-    "overrides": {
-      "npm:core-js@1.2.6": {
-        "main": "client/shim.min"
-      }
+      "core-js": "npm:core-js@^2.0.3"
     }
   },
   "devDependencies": {
